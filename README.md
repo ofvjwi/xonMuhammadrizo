@@ -43,14 +43,25 @@ My Gmail is developermuhammadrizo@gmail.com
 <br /><br />
 
 <img
+  width="33%"
+  align="left"
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/github_app_clone.jpg"
   alt="Alt text"
   title="Optional title"
-  width="260" height="550">
+  height="550">
   
   <img
-  align="right"
+  width="33%"
+  align="left"
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/github_clone.jpg"
   alt="Alt text"
   title="Optional title"
-  width="260" height="550">
+  height="550">
+  
+  <img
+  width="33%"
+  align="left"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/pinterest_clone.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
