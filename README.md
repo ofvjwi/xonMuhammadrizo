@@ -14,6 +14,10 @@
 
 
 
+<a href=”https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a">
+<img align=”left” src=”https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_file/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -52,5 +56,3 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-
-<a href=”https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a"><img align=”left” src=”https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_file/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
