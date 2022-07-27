@@ -39,8 +39,6 @@ My Gmail is developermuhammadrizo@gmail.com
 
 <br /><br />
 <br /><br />
-<br /><br />
-<br /><br />
 
 <img
   width="28%"
@@ -61,6 +59,51 @@ My Gmail is developermuhammadrizo@gmail.com
   <img
   width="28%"
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/pinterest_clone.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
+  
+<br /><br />
+<br /><br />
+
+
+<img
+  width="28%"
+  align="left"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/instagram_clone.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
+  
+  <img
+  width="28%"
+  align="left"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/scan_card.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
+  
+  <img
+  width="28%"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/uber_app_ui.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
+  
+<br /><br />
+<br /><br />
+
+<img
+  width="45%"
+  align="left"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/you_tube_clone.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
+  
+  <img
+  width="47%"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/you_tube_clone_.jpg"
   alt="Alt text"
   title="Optional title"
   height="550">
