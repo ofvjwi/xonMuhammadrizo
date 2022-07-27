@@ -38,7 +38,6 @@
 My Gmail is developermuhammadrizo@gmail.com
 
 <br /><br />
-<br /><br />
 
 ## 📱 The image below shows some of my little work on github
 
