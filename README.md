@@ -4,6 +4,7 @@ I'm Muhammadrizo from Uzbekistan, and a passionate android developer. I have bee
 You can check out my linkedin at https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a
 
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadrizo2003&show_icons=true&theme=radical" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizo2003&show_icons=true&theme=radical&layout=compact" />
 
 
