@@ -13,12 +13,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 
-
-<a href=”https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a">
-<img align=”left” src=”https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_file/linkedin.png" alt=”icon | LinkedIn” width=”51px”/></a>
-
-
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -56,3 +50,10 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
+[Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
+[Facebook](https://www.facebook.com/muhammadrizo.nurullaxojayev.5)
+[Telegram](https://t.me/xon_Muhammadrizo)
+[GitHub](https://github.com/muhammadrizo2003)
+[YouTube](https://youtube.com/channel/UCkBc3jNlyRWKIRos2JOXafQ)
+[Instagram](https://instagram.com/_android_engineer_)
+My Gmail is developermuhammadrizo@gmail.com
