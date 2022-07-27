@@ -85,7 +85,7 @@ My Gmail is developermuhammadrizo@gmail.com
   
   <img
   width="28%"
-  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/uber_app_ui.jpg"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/scan_card_number.jpg"
   alt="Alt text"
   title="Optional title"
   height="550">
@@ -94,7 +94,15 @@ My Gmail is developermuhammadrizo@gmail.com
 <br /><br />
 
 <img
-  width="45%"
+  width="28%"
+  align="left"
+  src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/uber_app_ui.jpg"
+  alt="Alt text"
+  title="Optional title"
+  height="550">
+
+<img
+  width="28%"
   align="left"
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/you_tube_clone.jpg"
   alt="Alt text"
@@ -102,7 +110,7 @@ My Gmail is developermuhammadrizo@gmail.com
   height="550">
   
   <img
-  width="47%"
+  width="28%"
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/you_tube_clone_.jpg"
   alt="Alt text"
   title="Optional title"
