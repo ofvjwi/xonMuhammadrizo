@@ -46,4 +46,4 @@ My Gmail is developermuhammadrizo@gmail.com
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/github_app_clone.jpg"
   alt="Alt text"
   title="Optional title"
-  width="250" height="500">
+  width="260" height="550">
