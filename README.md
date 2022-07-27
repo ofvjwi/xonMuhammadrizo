@@ -60,7 +60,6 @@ My Gmail is developermuhammadrizo@gmail.com
   
   <img
   width="33%"
-  align="left"
   src="https://raw.githubusercontent.com/muhammadrizo2003/muhammadrizo2003/main/my_little_works/pinterest_clone.jpg"
   alt="Alt text"
   title="Optional title"
