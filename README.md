@@ -4,13 +4,6 @@ I'm Muhammadrizo from Uzbekistan, and a passionate android developer. I have bee
 You can check out my linkedin at https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a
 
 
-<font size="4"> This is my text number 4</font> 
- 
- <font size="5"> This is my text number 5</font> 
- 
- <font size="6"> This is my text number 6</font>
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadrizo2003&show_icons=true&theme=radical)](https://github.com/muhammadrizo2003/)
 
 
