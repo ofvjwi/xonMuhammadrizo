@@ -23,7 +23,19 @@
 
 ## 🤝 Connect with me on:
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Facebook' height='30'>](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
+
+[<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white' alt='Facebook' height='30'>](https://www.facebook.com/muhammadrizo.nurullaxojayev.5)
+
+[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/xon_Muhammadrizo)
+
+[<img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt='Github' height='30'>](https://github.com/muhammadrizo2003)
+
+[<img src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white' alt='You Tube' height='30'>](https://youtube.com/channel/UCkBc3jNlyRWKIRos2JOXafQ)
+
+[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='30'>](https://instagram.com/_android_engineer_)
+
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
 
 <br /><br />
 
