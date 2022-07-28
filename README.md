@@ -38,23 +38,13 @@
 [<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
 
 <br /><br />
-
-
-[Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
-
-[Facebook](https://www.facebook.com/muhammadrizo.nurullaxojayev.5)
-
-[Telegram](https://t.me/xon_Muhammadrizo)
-
-[GitHub](https://github.com/muhammadrizo2003)
-
-[YouTube](https://youtube.com/channel/UCkBc3jNlyRWKIRos2JOXafQ)
-
-[Instagram](https://instagram.com/_android_engineer_)
-
-My Gmail is developermuhammadrizo@gmail.com
-
-<br /><br />
+<!--  [Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a) -->
+<!-- [Facebook](https://www.facebook.com/muhammadrizo.nurullaxojayev.5) -->
+<!-- [Telegram](https://t.me/xon_Muhammadrizo) -->
+<!-- [GitHub](https://github.com/muhammadrizo2003) -->
+<!-- [YouTube](https://youtube.com/channel/UCkBc3jNlyRWKIRos2JOXafQ) -->
+<!-- [Instagram](https://instagram.com/_android_engineer_) -->
+<!-- My Gmail is developermuhammadrizo@gmail.com -->
 
 ## 📱 The image below shows some of my little work on github
 
