@@ -37,7 +37,7 @@
 
 <br />
 
-[<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
 
 <br /><br />
 <!--  [Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a) -->
