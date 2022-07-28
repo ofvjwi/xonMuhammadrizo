@@ -35,6 +35,7 @@
 
 [<img align="left" src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='30'>](https://instagram.com/_android_engineer_)
 
+<br />
 [<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
 
 <br /><br />
