@@ -23,7 +23,7 @@
 
 ## 🤝 Connect with me on:
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Facebook' height='40'>](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Facebook' height='30'>](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
 
 <br /><br />
 
