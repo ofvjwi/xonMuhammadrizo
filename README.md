@@ -118,3 +118,5 @@ My Gmail is developermuhammadrizo@gmail.com
   alt="Alt text"
   title="Optional title"
   height="550">
+  
+  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
