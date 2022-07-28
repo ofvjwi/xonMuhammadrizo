@@ -18,6 +18,7 @@
 <img align="left" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 <br /><br />
+<br /><br />
 
 ## 🤝 Connect with me on:
 
@@ -37,7 +38,7 @@
 
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
 
-<br />
+
 <!--  [Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a) -->
 <!-- [Facebook](https://www.facebook.com/muhammadrizo.nurullaxojayev.5) -->
 <!-- [Telegram](https://t.me/xon_Muhammadrizo) -->
