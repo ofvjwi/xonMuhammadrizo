@@ -23,6 +23,16 @@
 
 ## 🤝 Connect with me on:
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<br /><br />
+
+<a href=”https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a"><img align=”left” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
+<br /><br />
+
+
 [Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a)
 
 [Facebook](https://www.facebook.com/muhammadrizo.nurullaxojayev.5)
