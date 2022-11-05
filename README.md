@@ -32,11 +32,13 @@
 
 [<img align="left" src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white' alt='You Tube' height='30'>](https://youtube.com/channel/UCkBc3jNlyRWKIRos2JOXafQ)
 
-[<img align="left" src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='40'>](https://instagram.com/_android_engineer_)
+<br /><br />
+
+[<img align="left" src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='30'>](https://instagram.com/_android_engineer_)
 
 <br /><br />
 
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='40'>](mailto:developermuhammadrizo@gmail.com)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:developermuhammadrizo@gmail.com)
 
 
 <!--  [Linkedin](https://www.linkedin.com/in/muhammadrizo-nurullaxo-jayev-13935122a) -->
