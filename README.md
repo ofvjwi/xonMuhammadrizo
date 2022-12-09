@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50">
 
-### I'm Muhammadrizo from Uzbekistan, and a passionate android developer. I have been learning android for 1.5 years. I like to create user-friendly and strongly protected applications. I am passionate about learning new technologies and applying them to applications. I love android.
+### I'm Muhammadrizo from Uzbekistan, and a passionate android developer. I have been learning android for 2 years. I like to create user-friendly and strongly protected applications. I am passionate about learning new technologies and applying them to applications. I love android.
 
 ## I'm currently looking for a job
 
