@@ -4,8 +4,11 @@
 
 
 
-https://medium.com/@developermuhammadrizo/https-drive-google-com-file-d-1-qzszvr1ndwxfgehwvnywkfknlpbsh-a-view-usp-sharing-34f73ec849d5
+https://drive.google.com/file/d/1NaTEe8TdKW0eGYgZide7-moxeteaPnJc/view
 
+https://drive.google.com/file/d/1AXT3Gp1KTPuG2h0tHNz5_xTNNTYR9rEY/view
+
+https://drive.google.com/file/d/1-QZSZVr1NDWxFGeHWVnYwkFKnLPbSh_A/view
 
 
 ## I'm currently looking for a job
