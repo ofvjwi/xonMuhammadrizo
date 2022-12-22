@@ -3,14 +3,6 @@
 ### I'm Muhammadrizo from Uzbekistan, and a passionate android developer. I have been learning android for 2 years. I like to create user-friendly and strongly protected applications. I am passionate about learning new technologies and applying them to applications. I love android.
 
 
-
-https://drive.google.com/file/d/1NaTEe8TdKW0eGYgZide7-moxeteaPnJc/view
-
-https://drive.google.com/file/d/1AXT3Gp1KTPuG2h0tHNz5_xTNNTYR9rEY/view
-
-https://drive.google.com/file/d/1-QZSZVr1NDWxFGeHWVnYwkFKnLPbSh_A/view
-
-
 ## I'm currently looking for a job
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonMuhammadrizo&show_icons=true&theme=radical&layout=compact" />
